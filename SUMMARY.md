@@ -5,8 +5,7 @@
 * [C# Note](README.md)
   * [Source code](c-sharp-technology/readme/source-code/README.md)
     * [Object.cs](c-sharp-technology/readme/source-code/object.cs.md)
-  * [Some definition](c-sharp-technology/2022/07-09.md)
-    * [Page 3](c-sharp-technology/readme/07-09/page-3.md)
+  * [Some definition](c-sharp-technology/readme/07-09.md)
 
 ## Unity
 
@@ -23,3 +22,4 @@
       * [Page 1](unity/unity-note/helper-class/common-script/page-1.md)
   * [Coroutine - 协程](unity/unity-note/coroutine-xie-cheng.md)
   * [Some definition](unity/unity-note/some-definition.md)
+  * [Little attention](unity/unity-note/little-attention.md)
