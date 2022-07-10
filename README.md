@@ -1,8 +1,10 @@
 ---
-description: 记录2022年学习的技术 - Record the technology learned in 2022
+description: 记录学习的技术 - Record learning c# techniques
 layout: editorial
 ---
 
-# 2022
+# C# Note
 
-详细信息：https://mizudanngo.gitbook.io/mizudanngo-note/
+本Git仓库由 GitBook 自动生成，文件内容可能杂乱。
+
+详细的内容请转：<mark style="color:blue;">https://mizudanngo.gitbook.io/mizudanngo-note/</mark>
