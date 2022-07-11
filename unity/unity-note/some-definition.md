@@ -57,9 +57,10 @@ Unity对象是 由 <mark style="color:blue;">C/C++</mark> 对象包装的，称�
 ```csharp
 void isVaild(UnityObject obj)
 {
-    if (obj) 
+    if (obj) // 理由是 UnityObject 对象实现了 对 Bool 的隐式（implicit）转换
     {
-        // 理由是 UnityObject 对象实现了 对 Bool 的隐式（implicit）转换
+        Destroy(obj);
+        obj = null;      // 这样写比较安全
     }
 }
 ```
