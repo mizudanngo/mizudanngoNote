@@ -4,6 +4,8 @@ description: 一些小型注意点 - 技巧类
 
 # Little attention
 
+* ****[<mark style="color:blue;">**关于 foreach**</mark>](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3#60458aafedbc2a5b4345d2a3)<mark style="color:blue;">****</mark>
+
 <details>
 
 <summary><mark style="color:blue;">Animator 或者 Shader 设置属性</mark></summary>
