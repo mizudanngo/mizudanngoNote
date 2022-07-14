@@ -11,6 +11,16 @@ layout: landing
 例如：" 在编辑器你调用 <mark style="color:blue;">`GetComponent<>`</mark>` ``来查询一个不存在的组件时，你会看到`<mark style="color:blue;">`C#`</mark>`内存分配正在发生，因为我们正在新分配的伪空对象中生成这个自定义的警告字符串。但是，这种内存分配不会发生在内置游戏中。"`
 {% endhint %}
 
+<details>
+
+<summary><mark style="color:blue;"><strong>关于 Time.timeScale</strong></mark></summary>
+
+受 <mark style="color:blue;">Time.timeScale</mark> 影响的是与 帧速率（<mark style="color:blue;">Time.deltaTime | Time.fixedDeltaTime</mark> ...）相关的计算 和 协程的 <mark style="color:blue;">`WaitForSeconds`</mark> 还有 和时间相关的 <mark style="color:blue;">FixedUpdate</mark> 函数，若值为 0，则不会调用 <mark style="color:blue;">FixedUpdate</mark> 函数 和 <mark style="color:blue;">`WaitForSeconds`</mark> 的 <mark style="color:blue;">`keepWaiting`</mark> 永远为 <mark style="color:blue;">True</mark> , 即永远等下去，但是相对的可以使用 <mark style="color:blue;">`WaitForSecondsRealtime`</mark> 规避
+
+其他 <mark style="color:blue;">`Update | LateUpdate 并不会受到影响`</mark>
+
+</details>
+
 #### <mark style="color:blue;">``</mark>[<mark style="color:blue;">`Unity生命周期函数`</mark>](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html)<mark style="color:blue;">``</mark>
 
 {% hint style="info" %}
