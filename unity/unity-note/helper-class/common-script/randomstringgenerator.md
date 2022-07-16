@@ -2,7 +2,7 @@
 description: 随机 生成字符串
 ---
 
-# 随机字符串生成
+# RandomStringGenerator
 
 ```csharp
   /// <summary>

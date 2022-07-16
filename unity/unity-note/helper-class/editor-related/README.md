@@ -2,7 +2,7 @@
 description: 编辑器相关的 助手类
 ---
 
-# 编辑器相关
+# Editor related
 
 ```csharp
   public static class EditorRelated

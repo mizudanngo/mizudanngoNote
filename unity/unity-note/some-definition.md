@@ -3,7 +3,7 @@ description: 算是一些定义吧~
 layout: landing
 ---
 
-# 一些定义
+# Some definition
 
 {% hint style="info" %}
 #### <mark style="color:red;">**在分析性能和内存分配的时候，永远不要在Editor（编辑器）里面分析，始终分析构建出来的游戏**</mark>

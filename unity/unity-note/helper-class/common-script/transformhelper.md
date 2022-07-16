@@ -2,7 +2,7 @@
 description: Transform 助手类
 ---
 
-# Transform 扩展
+# TransformHelper
 
 ```csharp
   /// <summary>
