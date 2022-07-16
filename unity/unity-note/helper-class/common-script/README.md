@@ -2,5 +2,5 @@
 description: 比较通用的脚本
 ---
 
-# Common Script
+# 通用脚本
 

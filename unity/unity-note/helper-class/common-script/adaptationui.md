@@ -2,7 +2,7 @@
 description: 伪 · 调整一下 UI 大小设配 手机屏幕
 ---
 
-# AdaptationUI
+# 伪 调整适配UI
 
 ```csharp
   public static class AdaptationUI

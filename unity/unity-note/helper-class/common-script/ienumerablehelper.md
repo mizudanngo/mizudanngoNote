@@ -2,7 +2,7 @@
 description: 可迭代对象 助手类
 ---
 
-# IEnumerableHelper
+# 可迭代对象扩展
 
 ```csharp
   public delegate bool Predicate<in T>(T obj);                 // 断言
