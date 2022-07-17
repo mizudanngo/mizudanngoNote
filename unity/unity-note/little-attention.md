@@ -2,7 +2,9 @@
 description: 一些小型注意点 - 技巧类
 ---
 
-# Little attention
+# 一些小技巧
+
+* ****[<mark style="color:blue;">**Unity关于 forea**</mark>](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3#60458aafedbc2a5b4345d2a3)<mark style="color:blue;">**ch 的一些修改**</mark>
 
 <details>
 
